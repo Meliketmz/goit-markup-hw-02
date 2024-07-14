@@ -152,6 +152,10 @@ body {
 
 /* --- SECTION 4 BÖLÜMÜ --- */
 /* "our-portfolio-header" class'ının özelliklerini tanımla */
+.our-portfolio-list {
+  background-color: #ffffff;
+}
+
 .our-portfolio-header {
   font-size: 36px;
   line-height: 1.11;
